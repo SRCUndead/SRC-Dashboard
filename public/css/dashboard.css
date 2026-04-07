@@ -1,0 +1,45 @@
+.body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+/* Live Timing Display */
+.live-timing {
+    font-size: 24px;
+    color: #000;
+    background-color: #fff;
+    padding: 15px;
+    border: 2px solid #007BFF;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+/* Leaderboard Styling */
+.leaderboard {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.leaderboard th {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px;
+}
+
+.leaderboard td {
+    background-color: #fff;
+    padding: 10px;
+}
+
+.leaderboard tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Chart Styling */
+.chart-container {
+    border: 1px solid #ccc;
+    padding:
+    margin: 20px 0;
+    background-color: white;
+}
